@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SystemCollections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{667730CD-A46B-4DCD-A64A-A4686C86ADC6}|6Task\\6Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\systemcollections\\6task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667730CD-A46B-4DCD-A64A-A4686C86ADC6}|6Task\\6Task.csproj|solutionrelative:6task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F14696-D16E-4C78-8919-DBC326276A05}|4Task\\4Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\systemcollections\\4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F14696-D16E-4C78-8919-DBC326276A05}|4Task\\4Task.csproj|solutionrelative:4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1D05E4-6960-4B92-B725-9815473B5B25}|3Task\\3Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\systemcollections\\3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1D05E4-6960-4B92-B725-9815473B5B25}|3Task\\3Task.csproj|solutionrelative:3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9212897F-EE66-4232-9CAC-678F2C2CCD50}|2Task\\2Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\systemcollections\\2task\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9212897F-EE66-4232-9CAC-678F2C2CCD50}|2Task\\2Task.csproj|solutionrelative:2task\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9212897F-EE66-4232-9CAC-678F2C2CCD50}|2Task\\2Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\systemcollections\\2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9212897F-EE66-4232-9CAC-678F2C2CCD50}|2Task\\2Task.csproj|solutionrelative:2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SystemCollections\\6Task\\Program.cs",
+              "RelativeDocumentMoniker": "6Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SystemCollections\\6Task\\Program.cs",
+              "RelativeToolTip": "6Task\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:34:50.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SystemCollections\\4Task\\Program.cs",
+              "RelativeDocumentMoniker": "4Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SystemCollections\\4Task\\Program.cs",
+              "RelativeToolTip": "4Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:17:24.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SystemCollections\\3Task\\Program.cs",
+              "RelativeDocumentMoniker": "3Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SystemCollections\\3Task\\Program.cs",
+              "RelativeToolTip": "3Task\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:00:17.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyCollection.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SystemCollections\\2Task\\MyCollection.cs",
+              "RelativeDocumentMoniker": "2Task\\MyCollection.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SystemCollections\\2Task\\MyCollection.cs",
+              "RelativeToolTip": "2Task\\MyCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:45:21.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SystemCollections\\2Task\\Program.cs",
+              "RelativeDocumentMoniker": "2Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SystemCollections\\2Task\\Program.cs",
+              "RelativeToolTip": "2Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:43:24.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
