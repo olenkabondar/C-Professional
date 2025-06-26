@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\StringRegularExpression\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF42FA4-5633-4099-BA4A-A1EA99030643}|2Task\\2Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\stringregularexpression\\2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF42FA4-5633-4099-BA4A-A1EA99030643}|2Task\\2Task.csproj|solutionrelative:2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDE78F1-629B-48B4-89B9-28826A0BB9B2}|6Task\\6Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\stringregularexpression\\6task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDE78F1-629B-48B4-89B9-28826A0BB9B2}|6Task\\6Task.csproj|solutionrelative:6task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D4B3E0-A101-48A6-8BB9-C857C319E84D}|4Task\\4Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\stringregularexpression\\4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D4B3E0-A101-48A6-8BB9-C857C319E84D}|4Task\\4Task.csproj|solutionrelative:4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7628D0-FED6-4CFA-80BB-D9CD6FBF614F}|3Task\\3Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\stringregularexpression\\3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7628D0-FED6-4CFA-80BB-D9CD6FBF614F}|3Task\\3Task.csproj|solutionrelative:3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\StringRegularExpression\\3Task\\Program.cs",
+              "RelativeDocumentMoniker": "3Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\StringRegularExpression\\3Task\\Program.cs",
+              "RelativeToolTip": "3Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:54:37.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\StringRegularExpression\\4Task\\Program.cs",
+              "RelativeDocumentMoniker": "4Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\StringRegularExpression\\4Task\\Program.cs",
+              "RelativeToolTip": "4Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:43:53.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\StringRegularExpression\\6Task\\Program.cs",
+              "RelativeDocumentMoniker": "6Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\StringRegularExpression\\6Task\\Program.cs",
+              "RelativeToolTip": "6Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:34:46.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\StringRegularExpression\\2Task\\Program.cs",
+              "RelativeDocumentMoniker": "2Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\StringRegularExpression\\2Task\\Program.cs",
+              "RelativeToolTip": "2Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:17:21.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
