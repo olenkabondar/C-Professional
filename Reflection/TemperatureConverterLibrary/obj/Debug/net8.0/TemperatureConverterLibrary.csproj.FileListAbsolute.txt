@@ -1,0 +1,12 @@
+C:\STUDY\С#Professional\HWProffesional\Reflection\TemperatureConverterLibrary\bin\Debug\net8.0\TemperatureConverterLibrary.deps.json
+C:\STUDY\С#Professional\HWProffesional\Reflection\TemperatureConverterLibrary\bin\Debug\net8.0\TemperatureConverterLibrary.dll
+C:\STUDY\С#Professional\HWProffesional\Reflection\TemperatureConverterLibrary\bin\Debug\net8.0\TemperatureConverterLibrary.pdb
+C:\STUDY\С#Professional\HWProffesional\Reflection\TemperatureConverterLibrary\obj\Debug\net8.0\TemperatureConverterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDY\С#Professional\HWProffesional\Reflection\TemperatureConverterLibrary\obj\Debug\net8.0\TemperatureConverterLibrary.AssemblyInfoInputs.cache
+C:\STUDY\С#Professional\HWProffesional\Reflection\TemperatureConverterLibrary\obj\Debug\net8.0\TemperatureConverterLibrary.AssemblyInfo.cs
+C:\STUDY\С#Professional\HWProffesional\Reflection\TemperatureConverterLibrary\obj\Debug\net8.0\TemperatureConverterLibrary.csproj.CoreCompileInputs.cache
+C:\STUDY\С#Professional\HWProffesional\Reflection\TemperatureConverterLibrary\obj\Debug\net8.0\TemperatureConverterLibrary.sourcelink.json
+C:\STUDY\С#Professional\HWProffesional\Reflection\TemperatureConverterLibrary\obj\Debug\net8.0\TemperatureConverterLibrary.dll
+C:\STUDY\С#Professional\HWProffesional\Reflection\TemperatureConverterLibrary\obj\Debug\net8.0\refint\TemperatureConverterLibrary.dll
+C:\STUDY\С#Professional\HWProffesional\Reflection\TemperatureConverterLibrary\obj\Debug\net8.0\TemperatureConverterLibrary.pdb
+C:\STUDY\С#Professional\HWProffesional\Reflection\TemperatureConverterLibrary\obj\Debug\net8.0\ref\TemperatureConverterLibrary.dll
