@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\XML_JSONConfiguration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF6FB1-9A94-40C0-8637-C2025AD06593}|4Task\\4Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\xml_jsonconfiguration\\4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AF6FB1-9A94-40C0-8637-C2025AD06593}|4Task\\4Task.csproj|solutionrelative:4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94D1E6-25F4-4371-8094-C8A6548E20DE}|3Task\\3Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\xml_jsonconfiguration\\3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE94D1E6-25F4-4371-8094-C8A6548E20DE}|3Task\\3Task.csproj|solutionrelative:3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4D75B2-6378-47F9-9BB7-447528B50600}|6Task\\6Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\xml_jsonconfiguration\\6task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4D75B2-6378-47F9-9BB7-447528B50600}|6Task\\6Task.csproj|solutionrelative:6task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E0EC8F-CCAB-448F-BFA4-6327CD63217A}|2Task\\2Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\xml_jsonconfiguration\\2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E0EC8F-CCAB-448F-BFA4-6327CD63217A}|2Task\\2Task.csproj|solutionrelative:2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\XML_JSONConfiguration\\4Task\\Program.cs",
+              "RelativeDocumentMoniker": "4Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\XML_JSONConfiguration\\4Task\\Program.cs",
+              "RelativeToolTip": "4Task\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:51:55.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\XML_JSONConfiguration\\3Task\\Program.cs",
+              "RelativeDocumentMoniker": "3Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\XML_JSONConfiguration\\3Task\\Program.cs",
+              "RelativeToolTip": "3Task\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:47:41.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\XML_JSONConfiguration\\6Task\\Program.cs",
+              "RelativeDocumentMoniker": "6Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\XML_JSONConfiguration\\6Task\\Program.cs",
+              "RelativeToolTip": "6Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:41:29.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\XML_JSONConfiguration\\2Task\\Program.cs",
+              "RelativeDocumentMoniker": "2Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\XML_JSONConfiguration\\2Task\\Program.cs",
+              "RelativeToolTip": "2Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:55:17.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
