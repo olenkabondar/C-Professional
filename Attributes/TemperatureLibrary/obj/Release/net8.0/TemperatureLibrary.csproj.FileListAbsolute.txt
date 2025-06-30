@@ -1,0 +1,12 @@
+C:\STUDY\С#Professional\HWProffesional\Attributes\TemperatureLibrary\bin\Release\net8.0\TemperatureLibrary.deps.json
+C:\STUDY\С#Professional\HWProffesional\Attributes\TemperatureLibrary\bin\Release\net8.0\TemperatureLibrary.dll
+C:\STUDY\С#Professional\HWProffesional\Attributes\TemperatureLibrary\bin\Release\net8.0\TemperatureLibrary.pdb
+C:\STUDY\С#Professional\HWProffesional\Attributes\TemperatureLibrary\obj\Release\net8.0\TemperatureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDY\С#Professional\HWProffesional\Attributes\TemperatureLibrary\obj\Release\net8.0\TemperatureLibrary.AssemblyInfoInputs.cache
+C:\STUDY\С#Professional\HWProffesional\Attributes\TemperatureLibrary\obj\Release\net8.0\TemperatureLibrary.AssemblyInfo.cs
+C:\STUDY\С#Professional\HWProffesional\Attributes\TemperatureLibrary\obj\Release\net8.0\TemperatureLibrary.csproj.CoreCompileInputs.cache
+C:\STUDY\С#Professional\HWProffesional\Attributes\TemperatureLibrary\obj\Release\net8.0\TemperatureLibrary.sourcelink.json
+C:\STUDY\С#Professional\HWProffesional\Attributes\TemperatureLibrary\obj\Release\net8.0\TemperatureLibrary.dll
+C:\STUDY\С#Professional\HWProffesional\Attributes\TemperatureLibrary\obj\Release\net8.0\refint\TemperatureLibrary.dll
+C:\STUDY\С#Professional\HWProffesional\Attributes\TemperatureLibrary\obj\Release\net8.0\TemperatureLibrary.pdb
+C:\STUDY\С#Professional\HWProffesional\Attributes\TemperatureLibrary\obj\Release\net8.0\ref\TemperatureLibrary.dll

@@ -1,0 +1,5 @@
+C:\STUDY\С#Professional\HWProffesional\Attributes\2Task\obj\Release\net8.0\2Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDY\С#Professional\HWProffesional\Attributes\2Task\obj\Release\net8.0\2Task.AssemblyInfoInputs.cache
+C:\STUDY\С#Professional\HWProffesional\Attributes\2Task\obj\Release\net8.0\2Task.AssemblyInfo.cs
+C:\STUDY\С#Professional\HWProffesional\Attributes\2Task\obj\Release\net8.0\2Task.csproj.CoreCompileInputs.cache
+C:\STUDY\С#Professional\HWProffesional\Attributes\2Task\obj\Release\net8.0\2Task.sourcelink.json
