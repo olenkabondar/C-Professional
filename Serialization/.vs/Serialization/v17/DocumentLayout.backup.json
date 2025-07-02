@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9C1286-8FBD-4BB3-B001-087A33038280}|5Task\\5Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\serialization\\5task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9C1286-8FBD-4BB3-B001-087A33038280}|5Task\\5Task.csproj|solutionrelative:5task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9C1286-8FBD-4BB3-B001-087A33038280}|5Task\\5Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\serialization\\5task\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9C1286-8FBD-4BB3-B001-087A33038280}|5Task\\5Task.csproj|solutionrelative:5task\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FFDA43-4EEF-4A25-A431-D39EB964545D}|3Task\\3Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\serialization\\3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FFDA43-4EEF-4A25-A431-D39EB964545D}|3Task\\3Task.csproj|solutionrelative:3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FFDA43-4EEF-4A25-A431-D39EB964545D}|3Task\\3Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\serialization\\3task\\personelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FFDA43-4EEF-4A25-A431-D39EB964545D}|3Task\\3Task.csproj|solutionrelative:3task\\personelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1960DD-178B-465D-A555-BD90E1AAA63D}|2Task\\2Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\serialization\\2task\\personelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1960DD-178B-465D-A555-BD90E1AAA63D}|2Task\\2Task.csproj|solutionrelative:2task\\personelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FFDA43-4EEF-4A25-A431-D39EB964545D}|3Task\\3Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\serialization\\3task\\personattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FFDA43-4EEF-4A25-A431-D39EB964545D}|3Task\\3Task.csproj|solutionrelative:3task\\personattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1960DD-178B-465D-A555-BD90E1AAA63D}|2Task\\2Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\serialization\\2task\\personattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1960DD-178B-465D-A555-BD90E1AAA63D}|2Task\\2Task.csproj|solutionrelative:2task\\personattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1960DD-178B-465D-A555-BD90E1AAA63D}|2Task\\2Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\serialization\\2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1960DD-178B-465D-A555-BD90E1AAA63D}|2Task\\2Task.csproj|solutionrelative:2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\5Task\\User.cs",
+              "RelativeDocumentMoniker": "5Task\\User.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\5Task\\User.cs",
+              "RelativeToolTip": "5Task\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:24:43.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\5Task\\Program.cs",
+              "RelativeDocumentMoniker": "5Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\5Task\\Program.cs",
+              "RelativeToolTip": "5Task\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:24:05.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonAttribute.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\3Task\\PersonAttribute.cs",
+              "RelativeDocumentMoniker": "3Task\\PersonAttribute.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\3Task\\PersonAttribute.cs",
+              "RelativeToolTip": "3Task\\PersonAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:09:49.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonElement.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\3Task\\PersonElement.cs",
+              "RelativeDocumentMoniker": "3Task\\PersonElement.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\3Task\\PersonElement.cs",
+              "RelativeToolTip": "3Task\\PersonElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:09:45.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\3Task\\Program.cs",
+              "RelativeDocumentMoniker": "3Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\3Task\\Program.cs",
+              "RelativeToolTip": "3Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:07:49.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonAttribute.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\2Task\\PersonAttribute.cs",
+              "RelativeDocumentMoniker": "2Task\\PersonAttribute.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\2Task\\PersonAttribute.cs",
+              "RelativeToolTip": "2Task\\PersonAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:57:40.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonElement.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\2Task\\PersonElement.cs",
+              "RelativeDocumentMoniker": "2Task\\PersonElement.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\2Task\\PersonElement.cs",
+              "RelativeToolTip": "2Task\\PersonElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:53:56.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\2Task\\Program.cs",
+              "RelativeDocumentMoniker": "2Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\Serialization\\2Task\\Program.cs",
+              "RelativeToolTip": "2Task\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:48:22.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

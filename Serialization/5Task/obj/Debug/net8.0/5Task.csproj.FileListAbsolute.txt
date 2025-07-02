@@ -1,0 +1,15 @@
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\bin\Debug\net8.0\5Task.exe
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\bin\Debug\net8.0\5Task.deps.json
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\bin\Debug\net8.0\5Task.runtimeconfig.json
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\bin\Debug\net8.0\5Task.dll
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\bin\Debug\net8.0\5Task.pdb
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\obj\Debug\net8.0\5Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\obj\Debug\net8.0\5Task.AssemblyInfoInputs.cache
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\obj\Debug\net8.0\5Task.AssemblyInfo.cs
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\obj\Debug\net8.0\5Task.csproj.CoreCompileInputs.cache
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\obj\Debug\net8.0\5Task.sourcelink.json
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\obj\Debug\net8.0\5Task.dll
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\obj\Debug\net8.0\refint\5Task.dll
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\obj\Debug\net8.0\5Task.pdb
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\obj\Debug\net8.0\5Task.genruntimeconfig.cache
+C:\STUDY\С#Professional\HWProffesional\Serialization\5Task\obj\Debug\net8.0\ref\5Task.dll
