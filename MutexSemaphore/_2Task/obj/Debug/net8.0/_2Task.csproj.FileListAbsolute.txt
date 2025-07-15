@@ -1,0 +1,15 @@
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\bin\Debug\net8.0\_2Task.exe
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\bin\Debug\net8.0\_2Task.deps.json
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\bin\Debug\net8.0\_2Task.runtimeconfig.json
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\bin\Debug\net8.0\_2Task.dll
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\bin\Debug\net8.0\_2Task.pdb
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\obj\Debug\net8.0\_2Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\obj\Debug\net8.0\_2Task.AssemblyInfoInputs.cache
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\obj\Debug\net8.0\_2Task.AssemblyInfo.cs
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\obj\Debug\net8.0\_2Task.csproj.CoreCompileInputs.cache
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\obj\Debug\net8.0\_2Task.sourcelink.json
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\obj\Debug\net8.0\_2Task.dll
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\obj\Debug\net8.0\refint\_2Task.dll
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\obj\Debug\net8.0\_2Task.pdb
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\obj\Debug\net8.0\_2Task.genruntimeconfig.cache
+C:\STUDY\С#Professional\HWProffesional\MutexSemaphore\_2Task\obj\Debug\net8.0\ref\_2Task.dll
