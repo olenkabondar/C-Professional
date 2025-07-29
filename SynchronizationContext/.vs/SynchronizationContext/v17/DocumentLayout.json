@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SynchronizationContext\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8142B0-55BA-4C45-BF44-A7C64E37C145}|5Task\\5Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\synchronizationcontext\\5task\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8142B0-55BA-4C45-BF44-A7C64E37C145}|5Task\\5Task.csproj|solutionrelative:5task\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8142B0-55BA-4C45-BF44-A7C64E37C145}|5Task\\5Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\synchronizationcontext\\5task\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB8142B0-55BA-4C45-BF44-A7C64E37C145}|5Task\\5Task.csproj|solutionrelative:5task\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DF0E28-635F-42DC-B803-7F9B0AC6CEB8}|3Task\\3Task.csproj|c:\\study\\\u0441#professional\\hwproffesional\\synchronizationcontext\\3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DF0E28-635F-42DC-B803-7F9B0AC6CEB8}|3Task\\3Task.csproj|solutionrelative:3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SynchronizationContext\\5Task\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "5Task\\MainWindow.xaml",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SynchronizationContext\\5Task\\MainWindow.xaml",
+              "RelativeToolTip": "5Task\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-29T11:59:56.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SynchronizationContext\\5Task\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "5Task\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SynchronizationContext\\5Task\\MainWindow.xaml.cs",
+              "RelativeToolTip": "5Task\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:59:56.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SynchronizationContext\\3Task\\Program.cs",
+              "RelativeDocumentMoniker": "3Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\\u0421#Professional\\HWProffesional\\SynchronizationContext\\3Task\\Program.cs",
+              "RelativeToolTip": "3Task\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:47:09.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

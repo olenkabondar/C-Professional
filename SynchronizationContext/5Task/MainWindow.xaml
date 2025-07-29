@@ -1,0 +1,14 @@
+﻿<Window x:Class="_5Task.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_5Task"
+        mc:Ignorable="d"
+        Title="Головне вікно" Height="200" Width="400">
+
+    <StackPanel Margin="20">
+        <Button Name="btnCalculate" Content="Розрахунок: 3*7" Click="btnCalculate_Click" Height="30" Margin="0,0,0,10"/>
+        <TextBox Name="txtResult" Height="30"/>
+    </StackPanel>
+</Window>
